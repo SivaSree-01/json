@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "66fd",
+      "name": "SS",
+      "phno": "123456",
+      "address": "kphb",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "3d95",
+      "name": "Siva Sree Krovvidi",
+      "phno": "7947858375",
+      "address": "sita meadows",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "00e2",
+      "name": "lakshmi",
+      "phno": "567898765",
+      "address": "kukatpally",
+      "city": "tuni",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": "c64c",
+      "name": "geetha",
+      "phno": "87654567234",
+      "address": "lingampally",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "5281",
+      "name": "pravallika",
+      "phno": "4561230987",
+      "address": "chikkadpally",
+      "city": "West Godavari",
+      "state": "ANDHRA PRADESH"
+    },
+    {
+      "id": "256e",
+      "name": "Siva Sree",
+      "phno": "68532846899",
+      "address": "Rayalam",
+      "city": "Bhimavaram",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "id": "58e1",
+      "name": "SRI",
+      "phno": "5678909876",
+      "address": "HOUSING BOARD",
+      "city": "CHILIKA LAKE",
+      "state": "NILE RIVER"
+    }
+  ]
+}
